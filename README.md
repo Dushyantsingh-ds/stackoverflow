@@ -9,8 +9,8 @@ Google Maps is a web mapping service developed by Google. It offers satellite im
 
 ## Step 1 : Creating an Html page.
 
-### use any TextEditor but save the file using extension .html or .hml
-`
+### Code
+```
 <!DOCTYPE html> 
 <html> 
   <head> 
@@ -27,7 +27,7 @@ Google Maps is a web mapping service developed by Google. It offers satellite im
     <div id="map"></div> 
   </body> 
 </html> 
-`
+```
 ### Output :
 ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/Screen-Shot-2017-11-07-at-2.32.27-PM.png)
 
