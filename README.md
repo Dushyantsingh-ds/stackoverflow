@@ -87,8 +87,8 @@ The code defines an area of the page for the Google map. The div appears as a gr
 -Type your api key inside “key = “.
 ``` <script async defer scr="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY &callback=initMap">
 </script> ```
-The code contains the initMap function that initializes and adds the map when the web page loads.Script tag can be used to add your own javascript.
-``` <script 
+<!-- The code contains the initMap function that initializes and adds the map when the web page loads.Script tag can be used to add your own javascript. -->
+``` <script
 function initMap() {
 var test = {lat: -25.363, lng: 131.044};
 var map = new
