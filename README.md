@@ -165,7 +165,5 @@ AIzaSyB2bXKNDezDf6YNVc-SauobynNHPo4RJb8&callback=initMap">
 ### Output
 ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/Screen-Shot-2017-11-08-at-3.07.50-PM.png)
 
-This article is contributed by Shubrodeep Banerjee. If you like GeeksforGeeks and would like to contribute, you can also write an article using contribute.geeksforgeeks.org or mail your article to contribute@geeksforgeeks.org. See your article appearing on the GeeksforGeeks main page and help other Geeks.
 
-you want to share more information about the topic discussed above.
 
